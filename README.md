@@ -13,5 +13,5 @@ generate thumb images from fbx files.
 ## note
 based on FBX Importer (official), [UI Previews - Proposal](https://wiki.blender.org/index.php/User:Brita/Proposals/UIPreviews) (wiki.blender.org)
 
-## screenshot
-![screenshot](https://raw.github.com/wiki/sntulix/blender-generate-fbx-thumbs/images/blender-ui-preview-images.png)
+## sample image
+![image](https://raw.github.com/wiki/sntulix/blender-generate-fbx-thumbs/images/blender-ui-preview-images.png)
