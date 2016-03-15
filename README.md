@@ -3,7 +3,7 @@ generate thumb images from fbx files.
 
 ## command
 ```
-blender gen_thumb_fbx.blend -- <fbx dir>
+./blender gen_thumb_fbx.blend -- <fbx dir>
 ```
 
 ```
