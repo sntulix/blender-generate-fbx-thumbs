@@ -1,4 +1,4 @@
-# blender-generate-fbx-thumbs
+# blender fbx thumbs generator
 generate thumb images from fbx files.
 
 ## command
