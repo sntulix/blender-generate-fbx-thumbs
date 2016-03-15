@@ -11,7 +11,7 @@ blender gen_thumb_fbx.blend -- <fbx dir>
 ```
 
 ## note
-based on [UI Previews - Proposal](https://wiki.blender.org/index.php/User:Brita/Proposals/UIPreviews) (wiki.blender.org)
+based on FBX Importer (official), [UI Previews - Proposal](https://wiki.blender.org/index.php/User:Brita/Proposals/UIPreviews) (wiki.blender.org)
 
 ## screenshot
 ![screenshot](https://raw.github.com/wiki/sntulix/blender-generate-fbx-thumbs/images/blender-ui-preview-images.png)
