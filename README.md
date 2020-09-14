@@ -5,6 +5,8 @@ generate thumb images from fbx files.
 
 Open blender28_gen_thumb_fbx.blend, Press Alt + p, Select a folder of FBX files and Press open button.
 
+![bl_fbx_gen_thumb](https://user-images.githubusercontent.com/616940/93068960-11b96700-f6b8-11ea-83ff-5e887b91cbe4.gif)
+
 
 ## 2.7x command
 ```
