@@ -3,7 +3,7 @@ generate thumb images from fbx files in a folder.
 
 ## for 2.8x
 
-Download Zip, Extract.
+Download the Release Zip from sidebar of this page, Extract.
 Open blender28_gen_thumb_fbx.blend, Press Alt + p.
 In FileBrowser, Open a Folder of FBX Files, then Press "this folder" button.
 
@@ -12,7 +12,7 @@ In FileBrowser, Open a Folder of FBX Files, then Press "this folder" button.
 ### In 2.8x, this script's UI Previews function is unimplemented.
 
 ## for 2.7x (command line)
-Download Zip, Extract. from terminal or command prompt,
+Download the Release Zip from sidebar of this page, Extract. from terminal or command prompt,
 ```
 ./blender gen_thumb_fbx.blend -- <fbx dir>
 ```
