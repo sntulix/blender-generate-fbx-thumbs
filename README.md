@@ -1,7 +1,12 @@
 # blender fbx thumbs generator
 generate thumb images from fbx files.
 
-## command
+## 2.8x
+
+Open blender28_gen_thumb_fbx.blend, Press Alt + p, Select a folder of FBX files and Press open button.
+
+
+## 2.7x command
 ```
 ./blender gen_thumb_fbx.blend -- <fbx dir>
 ```
