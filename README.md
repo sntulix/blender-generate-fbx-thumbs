@@ -7,7 +7,7 @@ Download Zip, Extract.
 Open blender28_gen_thumb_fbx.blend, Press Alt + p.
 In FileBrowser, Open a Folder of FBX Files, then Press "this folder" button.
 
-![bl_fbx_gen_thumb](https://user-images.githubusercontent.com/616940/93068960-11b96700-f6b8-11ea-83ff-5e887b91cbe4.gif)
+![bl28_fbx_gen_thumb](https://user-images.githubusercontent.com/616940/93096805-c9ae3a80-f6df-11ea-97a0-8f1bff5a03b9.gif)
 
 ### In 2.8x, this script's UI Previews function is unimplemented.
 
