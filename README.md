@@ -1,16 +1,18 @@
 # blender fbx thumbs generator
-generate thumb images from fbx files.
+generate thumb images from fbx files in a folder.
 
-## 2.8x
+## for 2.8x
 
-Download Zip. Open blender28_gen_thumb_fbx.blend, Press Alt + p, Select a folder of FBX files and Press open button.
+Download Zip, Extract.
+Open blender28_gen_thumb_fbx.blend, Press Alt + p.
+In FileBrowser, Open a Folder of FBX Files, then Press "this folder" button.
 
 ![bl_fbx_gen_thumb](https://user-images.githubusercontent.com/616940/93068960-11b96700-f6b8-11ea-83ff-5e887b91cbe4.gif)
 
-# In 2.8x, this script's UI Previews function is unimplemented.
+### In 2.8x, this script's UI Previews function is unimplemented.
 
-## 2.7x command
-Download Zip, and
+## for 2.7x (command line)
+Download Zip, Extract. from terminal or command prompt,
 ```
 ./blender gen_thumb_fbx.blend -- <fbx dir>
 ```
@@ -25,7 +27,8 @@ based on FBX Importer (official), [UI Previews - Proposal](https://wiki.blender.
 ## sample image
 ![image](https://raw.github.com/wiki/sntulix/blender-generate-fbx-thumbs/images/blender-ui-preview-images.png)
 
-## thanks
-https://blender.stackexchange.com/questions/124347/blender-2-8-python-code-to-switch-shading-mode-between-wireframe-and-solid-mo
-http://rikoubou.hatenablog.com/entry/2018/11/26/183709
-https://qiita.com/hibit/items/d6b92d49d4d3a5730aa4
+# thanks
+- https://sinestesia.co/blog/tutorials/using-blenders-filebrowser-with-python/
+- https://blender.stackexchange.com/questions/124347/blender-2-8-python-code-to-switch-shading-mode-between-wireframe-and-solid-mo
+- http://rikoubou.hatenablog.com/entry/2018/11/26/183709
+- https://qiita.com/hibit/items/d6b92d49d4d3a5730aa4
