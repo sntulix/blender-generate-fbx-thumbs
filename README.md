@@ -1,5 +1,5 @@
-# 9月14日にリリースしたものはFBXファイルと同じフォルダにテクスチャ画像があるとファイル名がかぶって上書きしそうなので9月18日からのバージョンをお使いください。
-# The program released at 2020/9/14, would be overwrite a texture image file if its is at same folder with FBX files. So choice the released at 2020/9/18 please.
+## 9月14日にリリースしたものはFBXファイルと同じフォルダにテクスチャ画像があるとファイル名がかぶって上書きしそうなので9月18日からのバージョンをお使いください。
+## The program released at 2020/9/14, would be overwrite a texture image file if its is at same folder with FBX files. So choice the released at 2020/9/18 please.
 
 # blender fbx thumbs generator
 generate thumb images from fbx files in a folder.
